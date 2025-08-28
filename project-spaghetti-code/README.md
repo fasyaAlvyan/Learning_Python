@@ -1,10 +1,10 @@
-##Just a repo for my spaghetti code 😹
+## Just a repo for my spaghetti code 😹
 
-##Project content🤡 :
+## Project content🤡 :
 -ATM Basic dawwg.py
 -Tabel nilai dawwwwwwwwwwg.py
 -Tebak angka dawwg.py
 -To Do List dawwg.py
 
-##Goals:
+## Goals:
 -To learn basic python🤓👆
